@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Matthew Czech, and welcome to my GitHub! I'm just a baby programmer for now, so there isn't too much here yet, but look out for more stuff coming soon! 
+Things I'm working on:
+Learning Python 3
+Pokemon Capture Probability Checker
 
 <!--
 **mtczech/mtczech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
