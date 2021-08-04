@@ -1,7 +1,4 @@
-### Hi there 👋, I'm Matthew Czech, and welcome to my GitHub! I'm just a baby programmer for now, so there isn't too much here yet, but look out for more stuff coming soon! 
-Things I'm working on:
-Learning Python 3
-Pokemon Capture Probability Checker
+### Hi there 👋, I'm Matthew Czech, and welcome to my GitHub! As of right now, I'm working primarily on czechbot, a program capable of playing humans in a Pokemon battle. To see that and some of my other work, stick around! If you're impressed with my work and want to reach out, hit me up at mtczech32@gmail.com
 
 <!--
 **mtczech/mtczech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
